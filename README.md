@@ -4,7 +4,7 @@
 
 Three-dimensional game created using the ray casting method. The game is set in a garden and the player job is to clean the garden by collecting falling leaves.
 
-##Usage
+## Usage
 
 First you need to compile.
 ```bash
